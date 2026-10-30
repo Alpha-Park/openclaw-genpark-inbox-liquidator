@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-inbox-liquidator",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Inbox Liquidator - Zero-inbox NLP action item and Eisenhower matrix triage engine with automated task extraction and reply drafting.",
+  "tools": [
+    "extract_action_items_and_deadlines",
+    "calculate_eisenhower_matrix",
+    "triage_and_route_email"
+  ]
+}
